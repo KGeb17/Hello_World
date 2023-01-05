@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="Kalkidan_Intro"> Hello World! My name is Kalkidan. I love Android development and golden retrievers. I am a determined, persistent and quick learner. \nPlease, check my app and click at the button to say hello! </string>
+    <string name="Hello_text">Say Hello!</string>
+</resources>
